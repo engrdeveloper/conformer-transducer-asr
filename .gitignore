@@ -1,0 +1,23 @@
+# Datasets and generated outputs
+data/
+trained/
+results/
+outputs/
+checkpoints/
+logs/
+
+# Model and experiment artifacts
+*.ckpt
+*.out
+events.out.tfevents.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
